@@ -1,0 +1,24 @@
+html {
+    background-image: url("vo.jpg");
+    background-size: cover;
+  
+}
+.buttons{
+    height: 50px;
+    position: relative;
+    width: 10%;
+}
+.form{
+    margin: 0;
+    position: absolute;
+    top: 0%;
+    font-weight: 100;
+    border: 3em;
+    font-family: 'Arial';
+    text-decoration-color:white;
+    align-content: center;
+    background-color: rgb(238, 4, 4);
+    -ms-transform: translateY(-20%);
+    transform: translateY(-20%);
+}
+
